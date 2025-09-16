@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Vikas Jaiswal
 
-A passionate developer, AI enthusiast, and cloud practitioner.  
+A passionate python developer, AI enthusiast, and cloud practitioner.  
 I love building scalable AI applications, exploring LLM architectures, and learning DevOps.
 
 ---
